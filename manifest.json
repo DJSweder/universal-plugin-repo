@@ -88,7 +88,7 @@
     "overview": "Scrape poster images from Fanart",
     "owner": "jellyfin",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Fanart.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Fanart.png",
     "versions": [
       {
         "version": "12.0.0.0",
@@ -163,7 +163,7 @@
     "overview": "Get Music Video metadata from IMVDb",
     "owner": "jellyfin",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/IMVDb.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/IMVDb.png",
     "versions": [
       {
         "version": "4.0.0.0",
@@ -190,7 +190,7 @@
     "overview": "Sync all media changes with Kodi clients",
     "owner": "jellyfin",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Kodi Sync Queue.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Kodi Sync Queue.png",
     "versions": [
       {
         "version": "14.0.0.0",
@@ -281,7 +281,7 @@
     "overview": "Authenticate users against an LDAP database",
     "owner": "jellyfin",
     "category": "Authentication",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/LDAP Authentication.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/LDAP Authentication.png",
     "versions": [
       {
         "version": "20.0.0.0",
@@ -396,7 +396,7 @@
     "overview": "Live TV plugin for NextPVR",
     "owner": "jellyfin",
     "category": "LiveTV",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/NextPVR.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/NextPVR.png",
     "versions": [
       {
         "version": "11.0.0.0",
@@ -471,7 +471,7 @@
     "overview": "Download subtitles for your media",
     "owner": "jellyfin",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Open Subtitles.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Open Subtitles.png",
     "versions": [
       {
         "version": "20.0.0.0",
@@ -546,7 +546,7 @@
     "overview": "Collect and show user play statistics",
     "owner": "jellyfin",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Playback Reporting.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Playback Reporting.png",
     "versions": [
       {
         "version": "16.0.0.0",
@@ -637,7 +637,7 @@
     "overview": "Generate reports of your media library",
     "owner": "jellyfin",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Reports.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Reports.png",
     "versions": [
       {
         "version": "17.0.0.0",
@@ -770,7 +770,7 @@
     "overview": "Record your watched media with Trakt",
     "owner": "jellyfin",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Trakt.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Trakt.png",
     "versions": [
       {
         "version": "26.0.0.0",
@@ -917,7 +917,7 @@
     "overview": "Manage TVHeadend from Jellyfin",
     "owner": "jellyfin",
     "category": "LiveTV",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/TVHeadend.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/TVHeadend.png",
     "versions": [
       {
         "version": "12.0.0.0",
@@ -984,7 +984,7 @@
     "overview": "MusicBrainz Cover Art Archive",
     "owner": "jellyfin",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Cover Art Archive.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Cover Art Archive.png",
     "versions": [
       {
         "version": "8.0.0.0",
@@ -1059,7 +1059,7 @@
     "overview": "Get TV metadata from TheTvdb",
     "owner": "jellyfin",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/TheTVDB.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/TheTVDB.png",
     "versions": [
       {
         "version": "19.0.0.0",
@@ -1222,7 +1222,7 @@
     "overview": "AniDB metadata provider",
     "owner": "jellyfin",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/AniDB.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/AniDB.png",
     "versions": [
       {
         "version": "10.0.0.0",
@@ -1305,7 +1305,7 @@
     "overview": "AniList metadata provider",
     "owner": "jellyfin",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/AniList.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/AniList.png",
     "versions": [
       {
         "version": "11.0.0.0",
@@ -1396,7 +1396,7 @@
     "overview": "AniSearch metadata provider",
     "owner": "jellyfin",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/AniSearch.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/AniSearch.png",
     "versions": [
       {
         "version": "5.0.0.0",
@@ -1439,7 +1439,7 @@
     "overview": "Kitsu metadata provider",
     "owner": "jellyfin",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Kitsu.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Kitsu.png",
     "versions": [
       {
         "version": "6.0.0.0",
@@ -1490,7 +1490,7 @@
     "overview": "Get TV metadata from TVmaze",
     "owner": "jellyfin",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/TVmaze.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/TVmaze.png",
     "versions": [
       {
         "version": "12.0.0.0",
@@ -1589,7 +1589,7 @@
     "overview": "Sends notifications.",
     "owner": "jellyfin",
     "category": "Notifications",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Webhook.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Webhook.png",
     "versions": [
       {
         "version": "17.0.0.0",
@@ -1712,7 +1712,7 @@
     "overview": "Provides an OPDS book feed",
     "owner": "jellyfin",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/OPDS.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/OPDS.png",
     "versions": [
       {
         "version": "6.0.0.0",
@@ -1805,7 +1805,7 @@
     "overview": "Adds support for VGMdb to music libraries. Can provide both images and metadata for artists and albums.",
     "owner": "jellyfin",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/VGMdb.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/VGMdb.png",
     "versions": [
       {
         "version": "4.0.0.0",
@@ -1890,7 +1890,7 @@
     "overview": "Extracts Subtitles.",
     "owner": "jellyfin",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Subtitle Extract.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Subtitle Extract.png",
     "versions": [
       {
         "version": "4.0.0.0",
@@ -1943,7 +1943,7 @@
         "timestamp": "2024-05-11T19:28:18Z"
       }
     ],
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Discogs.png"
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Discogs.png"
   },
   {
     "guid": "7871d3b1-f1b9-4318-9c27-f35998ffbbcc",
@@ -2125,7 +2125,7 @@
     "description": "Analyzes the audio of television episodes and detects introduction sequences.",
     "owner": "AbandonedCart, rlauuzo, jumoog (forked from ConfusedPolarBear)",
     "category": "Intro-Skipper",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Intro Skipper.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Intro Skipper.png",
     "versions": [
       {
         "version": "1.10.10.23",
@@ -2144,7 +2144,7 @@
     "description": "These files can be used by Kodi and other players to skip content like commercials and are stored next to your media. Therefore you need write access.",
     "owner": "Intro Skipper (forked from Endrl)",
     "category": "Intro-Skipper",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/EDL Creator.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/EDL Creator.png",
     "versions": [
       {
         "version": "0.4.2.0",
@@ -2163,7 +2163,7 @@
     "description": "Provides an extended HTTP API to create and delete MediaSegments. This plugin is only necessary if you are using the Jellyfin Segment Editor: https://github.com/intro-skipper/segment-editor",
     "owner": "Intro Skipper (forked from Endrl)",
     "category": "Intro-Skipper",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/MediaSegments API.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/MediaSegments API.png",
     "versions": [
       {
         "version": "1.0.2",
@@ -2182,7 +2182,7 @@
     "description": "This plugin converts existing media segments (like Intros and Outros) into standardized Matroska chapter XML files",
     "owner": "Intro Skipper",
     "category": "Intro-Skipper",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Chapter Creator.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Chapter Creator.png",
     "versions": [
       {
         "version": "0.4.2.0",
@@ -2200,7 +2200,7 @@
     "description": "Add the abiliy to replace the Jellyfin logo",
     "owner": "Lacy",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/CustomLogo.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/CustomLogo.png",
     "versions": [
       {
         "version": "1.0.1",
@@ -2623,7 +2623,7 @@
     "description": "Create a Netflix-style featured content slider on the main page.",
     "owner": "lachlandcp",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Editor's Choice.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Editor's Choice.png",
     "versions": [
       {
         "version": "1.3.2.0",
@@ -2810,7 +2810,7 @@
     "overview": "Specifiy filepath patterns to ignore on library scan",
     "owner": "fdett",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Jellyfin Ignore.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Jellyfin Ignore.png",
     "versions": [
       {
         "version": "0.5.0.0",
@@ -3095,7 +3095,7 @@
     "overview": "Send newsletters for recently added media",
     "owner": "jellyfin",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Newsletters.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Newsletters.png",
     "versions": [
       {
         "version": "0.6.4.2",
@@ -3292,7 +3292,7 @@
     "description": "Enable Cinema Mode with local trailers and pre-rolls.",
     "owner": "CherryFloors",
     "overview": "Enable Jellyfin's Cinema Mode",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Cinema Mode.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Cinema Mode.jpg",
     "versions": [
       {
         "checksum": "4df3efb4098438472ff1373f78ace427",
@@ -3648,7 +3648,7 @@
     "description": "Adds support for custom tabs to be added to the Jellyfin webpage. Commonly used to add Requests tab.",
     "owner": "IAmParadox27",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Custom Tabs.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Custom Tabs.png",
     "versions": [
       {
         "version": "0.1.2.0",
@@ -3691,7 +3691,7 @@
     "description": "Adds home screen section for collections/playlists",
     "owner": "IAmParadox27",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Collection Sections.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Collection Sections.png",
     "versions": [
       {
         "version": "2.2.0.0",
@@ -3756,7 +3756,7 @@
     "description": "Adds support for plugins to change jellyfin-web content without actually modifying the files directly but intercepts the requests for the served data.",
     "owner": "IAmParadox27",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/File Transformation.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/File Transformation.png",
     "versions": [
       {
         "version": "2.3.0.0",
@@ -3876,7 +3876,7 @@
     "description": "Adds a media bar element at the top of the homepage on Jellyfin web",
     "owner": "IAmParadox27 & M0RPH3US",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Media Bar.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Media Bar.png",
     "versions": [
       {
         "version": "2.3.1.0",
@@ -4062,7 +4062,7 @@
     "description": "Adds support for plugins to define their own user settings pages, rather than just admin sided.",
     "owner": "IAmParadox27",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Plugin Pages.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Plugin Pages.png",
     "versions": [
       {
         "version": "2.3.1.0",
@@ -4193,7 +4193,7 @@
     "description": "Adds support for server provided home screen sections",
     "owner": "IAmParadox27",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Home Screen Sections.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Home Screen Sections.png",
     "versions": [
       {
         "version": "2.3.3.0",
@@ -4435,7 +4435,7 @@
     "description": "This plugin automatically scans the libraries and adds language tags to the media items. The languages are extracted from the audio tracks. Media types covered are movies, tv shows / series and collections.",
     "owner": "TheXaman",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Language Tags.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Language Tags.png",
     "versions": [
       {
         "version": "0.1.6.0",
@@ -4486,7 +4486,7 @@
     "description": "A third party plugin to keep your watched movie history automatically updated to a Letterboxd account",
     "owner": "danielveigasilva",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/LetterboxdSync.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/LetterboxdSync.png",
     "versions": [
       {
         "version": "1.1.2.0",
@@ -4545,7 +4545,7 @@
     "overview": "Fetch images and metadata from Apple Music.",
     "owner": "lyarenei",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Apple Music.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Apple Music.png",
     "image": "image.png",
     "versions": [
       {
@@ -4605,7 +4605,7 @@
     "overview": "Track your music habits with ListenBrainz.",
     "owner": "lyarenei",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/ListenBrainz.svg",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/ListenBrainz.svg",
     "versions": [
       {
         "version": "5.2.0.4",
@@ -4800,7 +4800,7 @@
     "overview": "Scrobble your watched shows with MyShows.me",
     "owner": "shemanaev",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/MyShows.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/MyShows.png",
     "versions": [
       {
         "version": "5.1.0.0",
@@ -4859,7 +4859,7 @@
     "overview": "Webhooks. Flexible and robust",
     "owner": "shemanaev",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Webhooks.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Webhooks.png",
     "versions": [
       {
         "version": "3.8.0.0",
@@ -4998,7 +4998,7 @@
     "overview": "Delete played media after specified time",
     "owner": "shemanaev",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Media Cleaner.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Media Cleaner.png",
     "versions": [
       {
         "version": "2.21.0.0",
@@ -5225,7 +5225,7 @@
     "overview": "A Meilisearch Plugin for Jellyfin",
     "owner": "a.sac.",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Meilisearch.svg",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Meilisearch.svg",
     "versions": [
       {
         "version": "1.11.1.4",
@@ -5469,7 +5469,7 @@
     "description": "Jellyfin Merge Versions plugin is a plugin that automatically groups every repeated movie\n",
     "overview": "Automatically merge repeated movies",
     "owner": "danieladov",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Merge Versions.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Merge Versions.png",
     "category": "General",
     "versions": [
       {
@@ -5658,7 +5658,7 @@
     "description": "Skin manager helps you to download and install most popular skins for jellyfin\n",
     "overview": "Skins for jellyfin",
     "owner": "danieladov",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Skin Manager.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Skin Manager.png",
     "category": "General",
     "versions": [
       {
@@ -5718,7 +5718,7 @@
     "owner": "RomainPierre7",
     "overview": "Easily send notifications to your Telegram bot!",
     "description": "Configure for each user where to send notifications, and what kind of notifications to send.",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Telegram Notifier.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Telegram Notifier.png",
     "versions": [
       {
         "checksum": "f377abfd5d5349639ca68034431dd543",
@@ -6152,7 +6152,7 @@
     "description": "Uses your listening history to generate a daily playlist of songs you might like",
     "owner": "Eeeeelias",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Playlist Generator.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Playlist Generator.png",
     "versions": [
       {
         "version": "1.3.0.1",
@@ -6203,7 +6203,7 @@
     "overview": "Manage your anime from Jellyfin using metadata from Shoko",
     "owner": "ShokoAnime",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Shoko.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Shoko.png",
     "versions": [
       {
         "version": "5.0.4.0",
@@ -6518,7 +6518,7 @@
     "description": "Enables logging in to Jellyfin using the Telegram Login Widget as SSO provider. Allows for simple Group management. Having a Telegram Username is mandatory. A Telegram Bot is required to validate the Telegram login credentials. A valid, public domain SSL certificate is required for the Login Widget to work. This plug-in is free, open-source software. 'Production'-usage is NOT recommended. I do not accept any responsibility for errors. Repo: https://github.com/hexxone/TeleJelly",
     "owner": "hexxone",
     "category": "Authentication",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/TeleJelly.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/TeleJelly.jpg",
     "versions": [
       {
         "targetAbi": "10.9.0.0",
@@ -6917,7 +6917,7 @@
     "description": "This metadata provider helps fill Jellyfin/Emby with information for your adult videos by pulling from the ThePornDB.",
     "owner": "DirtyRacer",
     "overview": "Manage Your Adult Videos in Jellyfin/Emby",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/ThePornDB.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/ThePornDB.png",
     "versions": [
       {
         "checksum": "fc61da3722fb3ca951783a9d32433dba",
@@ -7016,7 +7016,7 @@
     "overview": "MetaTube Plugin for Jellyfin/Emby.",
     "owner": "MetaTube",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/MetaTube.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/MetaTube.png",
     "versions": [
       {
         "checksum": "c158e46ad3360519feec4fe0a978ad57",
@@ -7067,7 +7067,7 @@
     "overview": "jellyfin电影元数据插件",
     "owner": "cxfksword",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/MetaShark.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/MetaShark.png",
     "versions": [
       {
         "version": "2.1.4.0",
@@ -7428,7 +7428,7 @@
     "overview": "jellyfin弹幕下载插件",
     "owner": "cxfksword",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Danmu.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Danmu.png",
     "versions": [
       {
         "version": "2.1.1.0",
@@ -7631,7 +7631,7 @@
     "overview": "Информация о фильмах и сериалах с КиноПоиска",
     "owner": "LinFor & skrashevich",
     "description": "Загружает рейтинг, описания, актёров, трейлеры и т.д. с сайта КиноПоиск. Может потребоваться зарегистрировать свой ApiToken, см. информацию в параметрах плагина. Для точного распознавания рекомендуется указывать id фильма с сайта КиноПоиск в имени файла в формате kp-12345 или kp12345. Подробнее см. https://github.com/LinFor/jellyfin-plugin-kinopoisk/blob/master/README.md\n",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/КиноПоиск.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/КиноПоиск.png",
     "versions": [
       {
         "version": "10.9.0.0",
@@ -7914,7 +7914,7 @@
     "description": "Scrape media's metadata from Douban",
     "owner": "caryyu",
     "overview": "Get your Movie/TV metadata from Douban",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Open Douban.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Open Douban.png",
     "versions": [
       {
         "checksum": "ffef0798b8285b9ac7610f38ab1bff16",
@@ -8119,7 +8119,7 @@
     "overview": "Watch trailers from TMDb",
     "owner": "crobibero",
     "category": "Channels",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/TMDb Trailers.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/TMDb Trailers.png",
     "versions": [
       {
         "version": "14.0.0.0",
@@ -8186,7 +8186,7 @@
     "overview": "Download subtitles for your media",
     "owner": "josdion",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/subbuzz.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/subbuzz.png",
     "versions": [
       {
         "version": "1.2.1.0",
@@ -8205,7 +8205,7 @@
     "description": "",
     "owner": "lostb1t",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Streamyfin.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Streamyfin.png",
     "versions": [
       {
         "version": "0.58.0.0",
@@ -8624,7 +8624,7 @@
     "description": "Lets you download YT videos as mp4 or mp3 with support for id3v2 tags. Requires yt-dlp/youtube-dl and (optionally) id3v2.",
     "owner": "Maurice 'AECX' Henke",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/FinTube.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/FinTube.png",
     "versions": [
       {
         "version": "1.0.1.0",
@@ -8643,7 +8643,7 @@
     "description": "Lets you download YT videos as mp4 or mp3 with support for id3v2 tags. Requires yt-dlp/youtube-dl and (optionally) id3v2.",
     "owner": "Maurice 'AECX' Henke",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/FinTube.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/FinTube.png",
     "versions": [
       {
         "version": "1.0.0.0",
@@ -8662,7 +8662,7 @@
     "description": "提供豆瓣电影/电视剧的元数据 Provide Movie/TV metadata from Douban",
     "owner": "Xzonn",
     "overview": "Jellyfin 豆瓣元数据插件 Douban Metadata Provider for Jellyfin",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Douban.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Douban.png",
     "versions": [
       {
         "checksum": "C10D592B3E8CEC4507ABC4939B4F24A2",
@@ -8884,7 +8884,7 @@
         "timestamp": "2022-10-11T14:23:10Z"
       }
     ],
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/NFO Chapters.png"
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/NFO Chapters.png"
   },
   {
     "guid": "f03d0adb-289f-4986-bd6f-2468025249b3",
@@ -9087,7 +9087,7 @@
         "timestamp": "2023-02-26T19:54:34Z"
       }
     ],
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Spotify Import.png"
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Spotify Import.png"
   },
   {
     "guid": "6bb8dbba-2aaa-4b19-9da4-f3bbb6c44091",
@@ -9096,7 +9096,7 @@
     "overview": "Authenticate users via Authelia",
     "owner": "nikarh",
     "category": "Authentication",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Authelia Authentication.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Authelia Authentication.png",
     "versions": [
       {
         "version": "1.0.15.0",
@@ -9197,7 +9197,7 @@
     "overview": "Tweaks for Jellyfin",
     "owner": "n00bcodr",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Jellyfin Tweaks.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Jellyfin Tweaks.png",
     "versions": [
       {
         "checksum": "29622399261e493ce33e2a24296ef76e",
@@ -9445,7 +9445,7 @@
     "overview": "Enables creation of Auto Collections based on Tag",
     "description": "Enables creation of Auto Collections based on Tag",
     "owner": "KeksBombe",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Auto Collections.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Auto Collections.jpg",
     "category": "General",
     "versions": [
       {
@@ -9795,7 +9795,7 @@
         "timestamp": "2025-05-12T06:51:53Z"
       }
     ],
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/AdultsSubtitle.png"
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/AdultsSubtitle.png"
   },
   {
     "guid": "12b44f20-6cfb-4be5-9950-3d0fbe74fa35",
@@ -10036,7 +10036,7 @@
     "overview": "MusicBrainz Cover Art Archive",
     "owner": "jellyfin",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Cover Art Archive.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Cover Art Archive.png",
     "versions": [
       {
         "version": "3.0.0.0",
@@ -10381,7 +10381,7 @@
     "overview": "Sync all media changes with Kodi clients",
     "owner": "jellyfin",
     "category": "General",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Kodi Sync Queue.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Kodi Sync Queue.png",
     "image": "image.png",
     "versions": [
       {
@@ -12374,7 +12374,7 @@
     "owner": "LizardByte",
     "category": "Metadata",
     "image": "themerr-jellyfin.png",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/Themerr.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/Themerr.png",
     "versions": [
       {
         "version": "2024.523.2124.32",
@@ -13089,7 +13089,7 @@
     "description": "TubeArchivistMetadata is a plugin that automatically manages metadata for videos downloaded with TubeArchivist from YouTube.\n",
     "owner": "DarkFighterLuke",
     "overview": "Metadata for your TubeArchivist library on Jellyfin",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/TubeArchivistMetadata.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/TubeArchivistMetadata.png",
     "versions": [
       {
         "version": "1.3.7.0",
@@ -13236,7 +13236,7 @@
     "overview": "Download subtitles for your media",
     "owner": "josdion",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/0belous/universal-plugin-repo/refs/heads/main/images/subbuzz.png",
+    "imageUrl": "https://raw.githubusercontent.com/DJSweder/universal-plugin-repo/refs/heads/main/images/subbuzz.png",
     "versions": [
       {
         "version": "1.2.1.0",
